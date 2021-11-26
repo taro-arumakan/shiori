@@ -1,0 +1,14 @@
+#save {
+  position: fixed;
+  top: 30px;
+  left: 10px;
+  width: 20%;
+}
+#saved {
+  visibility: hidden;
+  color: green;
+}
+#content {
+  width: 60%;
+  margin: auto;
+}
